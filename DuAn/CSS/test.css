@@ -50,7 +50,7 @@
     color: #5f5f60;
 }
 .card-text{
-    font-size: 12pt;
+    font-size: 10pt;
     color: #9c9da0;
 }
 .price-new{
@@ -159,6 +159,8 @@
 .footer-end--lead{
     margin-top: 40px;
     font-size: 11pt;
+    font-size: 16pt;
+    color: #5f5f60;
 }
 .footer-end--col p{
     font-size: 11pt;
